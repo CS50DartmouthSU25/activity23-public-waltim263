@@ -12,4 +12,6 @@
 
 [Mathematics](math.md) - Department chair: <github username>
 
+[Chemistry](chem.md) - Department chair: <LuiKL>
+
 ---
